@@ -61,7 +61,7 @@ This tool is designed for educational and testing purposes. Please use responsib
 
 ## 🙏 Acknowledgements
 
-- Inspired by the [https://github.com/Shpota/github-activity-generator/tree/main](github-activity-generator.git) and the spirit of open-source
+- Inspired by the (https://github.com/Shpota/github-activity-generator/tree/main)[github-activity-generator.git] and the spirit of open-source
 - Built with love for developers and Git enthusiasts worldwide
 
 ---
