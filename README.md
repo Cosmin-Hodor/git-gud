@@ -15,6 +15,7 @@ A sleek Python tool to create local Git repositories with customizable commit hi
 2. Clone this repository:
 
 `git clone https://github.com/Cosmin-Hodor/git-gud.git`
+
 `cd git-gud`
 
 3. Make the script executable:
@@ -40,7 +41,7 @@ Customize your repository generation with these options:
 
 Example with all options:
 
-`./git_history_generator.py epic_project -d 180 -f 70 -m 5 -nw`
+`./main.py epic_project -d 180 -f 70 -m 5 -nw`
 
 This creates `epic_project` with:
 - Commits spanning the last 180 days
